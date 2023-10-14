@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+.container {}
+.nav {
+    height: 100px;
+    background-color: #f6f8fa;  
+}
+.nav > .nav-section-one {
+    display: flex;
+}
+
+.nav > .nav-section-two > ul {
+    display: flex;
+}
+.section-body {
+    height: 400px;
+}
+.footer {
+    height: 40px;
+    background-color: #f6f8fa;
+}
